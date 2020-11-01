@@ -207,13 +207,13 @@ p {text-align: left;}
 }
 
 #table1 td, #table1 th {
-  border: 1px solid #ddd;
+  border: 2px solid #ddd;
   padding: 8px;
 }
 
 #table1 tr:nth-child(even){background-color: #f2f2f2;}
 
-#table1 tr:hover {background-color: #ddd;}
+#table1 tr:hover {background-color: ##3eb7c9;}
 
 #table1 th {
   padding-top: 12px;
