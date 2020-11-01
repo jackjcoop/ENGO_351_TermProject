@@ -191,6 +191,9 @@ font-size:10px;
 color:#386172;
 }
 
+table, th, td {
+  border: 1px solid black;
+}
 
 html, body {
 text-align: center;
