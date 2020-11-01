@@ -51,7 +51,7 @@ text-align:left;
 font-family:Georgia, "Times New Roman", Times, serif;
 font-size:32px;
 font-weight:bold;
-color:#192B33;
+color:#192B33 ;
 }
 
 .subText
@@ -217,6 +217,6 @@ p {text-align: left;}
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #4CAF50;
+  background-color: #2a4963;
   color: white;
 }
