@@ -200,7 +200,13 @@ text-align: center;
 }
 p {text-align: left;}
 
-#tabl1 td, #customers th {
+#table1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#table1 td, #table1 th {
   border: 1px solid #ddd;
   padding: 8px;
 }
