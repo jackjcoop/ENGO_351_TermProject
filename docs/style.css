@@ -27,6 +27,7 @@ body {
 	margin-left:29px;
 	margin-right:21px;
 	background: url(header.png) no-repeat;
+	max-width: auto; max-height: auto;
 }
 
 #page
