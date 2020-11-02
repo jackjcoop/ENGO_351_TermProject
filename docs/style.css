@@ -51,7 +51,7 @@ text-align:left;
 font-family:Georgia, "Times New Roman", Times, serif;
 font-size:32px;
 font-weight:bold;
-color:#192B33 ;
+color:#006400 ;
 }
 
 .subText
@@ -218,7 +218,7 @@ p {text-align: left;}
   padding: 8px;
 }
 
-#table1 tr:hover {background-color: #c2fab6;}
+#table1 tr:hover {background-color: #006400;}
 
 #table1 th {
   padding-top: 12px;
