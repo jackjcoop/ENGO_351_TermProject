@@ -11,7 +11,7 @@ body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #F1F5F8;
-	background-color: #00080
+	background-color: #000080
 ;
 
 }
@@ -89,38 +89,6 @@ text-align:left;
 font-family:Arial, Helvetica, sans-serif;
 line-height:27px;
 }
-
-.rightLinks
-{
-width: 102px;
-font-size:11px;
-font-weight:bold;
-line-height:21px;
-height:auto;
-margin-right:-2px;
-background-image:url(links_branch.png);
-background-repeat:no-repeat;
-text-align:right;
-float:right;
-}
-
-.rightLinks a:hover
-{
-color:#A7C27C;
-}
-
-
-
-.rightLinks .linkTitle
-{
-font-size:13px;
-font-weight:bold;
-margin-top:18px;
-margin-bottom:32px;
-margin-right:1px;
-color:#708B41;
-}
-
 
 #bar
 {
