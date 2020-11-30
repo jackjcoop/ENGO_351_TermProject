@@ -217,3 +217,21 @@ p {text-align: left;}
   clear: both;
   display: table;
 }
+
+
+.ImageLink
+{
+position:relative;
+left:30px;
+top:22px;
+text-align:left;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:32px;
+font-weight:bold;
+color:#006400 ;
+}
+
+.ImageLink a:hover
+{
+	color:#FF8000;
+}
