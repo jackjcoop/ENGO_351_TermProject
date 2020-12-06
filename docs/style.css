@@ -27,7 +27,7 @@ body {
 	margin-left:29px;
 	margin-right:29px;
 	background: url(header.png) no-repeat;
-	width: 944.00px; /* was max-width 100% before */ max-height: 100%;
+	max-width: 95%; max-height: 100%;
 }
 
 #page
@@ -94,12 +94,11 @@ line-height:27px;
 #bar
 {
 	position:relative;
-	width: 680px; /* was width 680 px before*/
+	width: 680px;
 	height:57px;
 	margin-left:29px;
 	margin-right:29px;
 	background: url(bar.png) no-repeat;
-	width: 944.00px;
 }
 
 .menuLink
