@@ -22,7 +22,7 @@ body {
 
 #header {
 	position:relative;
-	width: 670px;
+	width: 671px;
 	height:99px;
 	margin-left:29px;
 	margin-right:29px;
@@ -33,7 +33,7 @@ body {
 #bar
 {
 	position:relative;
-	width: 670px; /* was width 680 px before*/
+	width: 671px; /* was width 680 px before*/
 	height:57px;
 	margin-left:29px;
 	margin-right:29px;
