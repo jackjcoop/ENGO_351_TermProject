@@ -6,7 +6,7 @@ p {text-align: left;}
 body {
 	margin: 0;
 	padding: 0;
-	background: #333333 url(images/img01.gif) repeat-x;
+	background-image: url("SunsetHurricaneBG.jpg");
 	text-align: justify;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 13px;
